@@ -1,1 +1,1 @@
-# express-sample
+# Expressでタイマーを作成
